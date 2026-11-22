@@ -25,8 +25,8 @@ if not API_KEY:
 
 MODEL = "gemini-3.5-flash-lite"
 
-INPUT_FILE = "phase4_scenarios.csv"
-OUTPUT_FILE = "results_phase4.csv"
+INPUT_FILE = "../data/raw/phase4_scenarios.csv"
+OUTPUT_FILE = "../data/raw/results_phase4.csv"
 
 REPETITIONS = 3
 DELAY_SECONDS = 5

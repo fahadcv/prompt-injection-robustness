@@ -23,8 +23,8 @@ client = genai.Client(api_key=api_key)
 
 MODEL = "gemini-3.5-flash-lite"
 
-INPUT_FILE = "benchmark.csv"
-OUTPUT_FILE = "results_phase3.csv"
+INPUT_FILE = "../data/raw/benchmark.csv"
+OUTPUT_FILE = "../data/raw/results_phase3.csv"
 
 REPETITIONS = 5
 
