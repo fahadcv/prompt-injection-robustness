@@ -1,0 +1,7 @@
+category,DEFENSIVE,NEUTRAL,difference_pp
+authority_impersonation,100.0,66.66666666666666,33.33333333333334
+conflicting_instructions,86.66666666666667,60.0,26.66666666666667
+context_manipulation,100.0,60.0,40.0
+false_factual_claim,50.0,25.0,25.0
+instruction_override,80.0,26.666666666666668,53.33333333333333
+task_derailment,80.0,20.0,60.0

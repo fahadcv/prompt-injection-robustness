@@ -1,0 +1,3 @@
+phase,neutral_n,neutral_correct,neutral_pct,def_n,def_correct,def_pct,pp_diff,paired_n,trial_wins,trial_losses,trial_ties,trial_exact_p,scenarios,scenario_improve,scenario_same,scenario_worse,scenario_sign_p,scenario_boot_ci_low,scenario_boot_ci_high
+Phase 3,50,45,90.0,50,50,100.0,9.999999999999998,50,5,0,45,0.0625,10,1,9,0,1.0,0.0,30.0
+Phase 4,87,38,43.67816091954023,87,73,83.9080459770115,40.22988505747126,87,35,0,52,5.820766091346741e-11,29,15,14,0,6.103515625e-05,25.287356321839077,56.32183908045978
