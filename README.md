@@ -289,7 +289,7 @@ experimental process reproducible.
 
 ## Author
 
-**\Fahad CV**\
+**Fahad CV**
 Independent AI safety research project
 
 ------------------------------------------------------------------------
