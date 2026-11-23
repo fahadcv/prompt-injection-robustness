@@ -292,8 +292,6 @@ experimental process reproducible.
 **Fahad CV**
 Independent AI safety research project
 
-------------------------------------------------------------------------
 
-*For application or portfolio use, describe this as an exploratory
-evaluation and clearly state the model, benchmark size, scoring method,
-and limitations.*
+
+
